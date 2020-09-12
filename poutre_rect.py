@@ -8,8 +8,9 @@ h = 20  # en mm
 
 # Calcul de l'inertie
 
+I = 
 
 # Calcul de la déformation maximale
 
-
+delta_max = 
 
