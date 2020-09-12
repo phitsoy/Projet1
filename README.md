@@ -46,9 +46,7 @@ Afin de résoudre ce problème, nous pouvons utiliser des formules connues en r�
 
 La formule de la déformation maximale pour une poutre encastrée est:
 
-\begin{equation*}
-\Delta_{max} = \frac{F L^3}{3 E I}
-\end{equation*}
+![Equation](data/equation.png)
 
 où:
 
@@ -60,4 +58,5 @@ où:
 ### Calcul du moment quadratique de la section
 
 Le tableau suivant présente les formules permettant de calculer le moment quadratique de la poutre en fonction de son type de section (rectangulaire, carré, rond, creux) et de ses paramètres.
+
 ![Formules de section](data/formules_sections.png)
