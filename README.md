@@ -10,7 +10,7 @@ Pour ce faire, vous devez compléter les deux programmes `poutre_rect.py` et `po
 ## Partie 1 : Poutre rectangulaire
 Fichier `poutre_rect.py`
 
-Considérant que la section de la poutre est rectangulaire tel que présenté à la figure ci-dessous, et considérant les données fournis dans le fichier, vous devez écrire un programme permettant de calculer la déformation maximale de la poutre (delta_max). Vous devrez au préalable calculer le moment quadratique de la section.
+Considérant que la section de la poutre est rectangulaire tel que présenté à la figure ci-dessous, et considérant les données fournis dans le fichier, vous devez écrire un programme permettant de calculer la déformation maximale de la poutre (`delta_max). Vous devrez au préalable calculer le moment quadratique de la section.
 
 ![Poutre encastrée](data/poutre_section.png)
 
