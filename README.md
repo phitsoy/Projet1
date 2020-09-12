@@ -8,7 +8,7 @@ Concevoir et implémenter un programme permettant de calculer la déformation d'
 Pour ce faire, vous devez compléter les deux programmes `poutre_rect.py` et `poutre_section.py`.
 
 ## Partie 1 : Poutre rectangulaire
-Fichier `poutre_rect.py`
+À faire : compléter le fichier `poutre_rect.py`
 
 Considérant que la section de la poutre est rectangulaire tel que présenté à la figure ci-dessous, et considérant les données fournis dans le fichier, vous devez écrire un programme permettant de calculer la déformation maximale de la poutre (`delta_max). Vous devrez au préalable calculer le moment quadratique de la section.
 
@@ -20,7 +20,7 @@ La déformation maximale de la poutre est 42.24 mm
 ```
 
 ## Partie 2 : Optimisation de contraintes
-Fichier `poutre_section.py`
+À faire : compléter le fichier `poutre_section.py`
 
 Concevoir un programme qui permet, considérant les données d'entrée fournies dans le fichier, d'afficher le type de section minimisant la déformation maximale de la poutre.
 
